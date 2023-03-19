@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\bin\Debug\net6.0\workingWithDelegates.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\bin\Debug\net6.0\workingWithDelegates.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\bin\Debug\net6.0\workingWithDelegates.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\bin\Debug\net6.0\workingWithDelegates.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\bin\Debug\net6.0\workingWithDelegates.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\workingWithDelegates.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\workingWithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\workingWithDelegates.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\workingWithDelegates.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\workingWithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\workingWithDelegates.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\refint\workingWithDelegates.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\workingWithDelegates.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\workingWithDelegates.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithDelegates\workingWithDelegates\obj\Debug\net6.0\ref\workingWithDelegates.dll
